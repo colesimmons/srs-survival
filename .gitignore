@@ -1,6 +1,12 @@
 .ipynb_checkpoints/
+
 decks.apkg
-input.csv
-output.csv
+
+anki_export.csv
+review_history.csv
+review_history_with_text.csv
+review_history_with_time_features.csv
+dataset.csv
+*.pkl
 
 venv/
